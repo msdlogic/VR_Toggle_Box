@@ -3,7 +3,7 @@
 <img align="left" src=images/front.jpg>
 
 # Project in progress 
-This currently works with software for the Button Box project here: 
+I'm writing arduino code for this, but it currently works (somewhat) with software for the Button Box project here: 
 
 https://www.youtube.com/watch?v=Z7Sc4MJ8RPM
 
