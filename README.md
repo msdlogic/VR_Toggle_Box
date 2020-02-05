@@ -2,10 +2,18 @@
 
 <img align="left" src=images/front.jpg>
 
-# Project in progress 
-I'm writing arduino code for this, but it currently works (somewhat) with software for the Button Box project here: 
+# Summary
 
-https://www.youtube.com/watch?v=Z7Sc4MJ8RPM
+The VR Toggle Box provides a VR friendly control surface with simultaneous joystick emulation and a DCS-BIOS interface. The device can be used to control switches and dials on any aircraft in Digital Combat Simulator via joystick controls or DCS-BIOS.
+
+A mode switch to the left of the rotary encoders is selectable between 3 positions. Each position changes the mapping of the switches into different sets of joystick buttons or DCS-BIOS control messages. This provides up to 120 different control inputs. 
+ 
+The project includes:
+
+* STL files for printing the enclosure
+* A circuit schematic for wiring the panel
+* Code for programming an Arduino Pro Micro
+* Customizable LUA scripts for DCS-BIOS to control any aircraft (coming soon)
 
 # Contains 
 * 7 - 2 way switches
