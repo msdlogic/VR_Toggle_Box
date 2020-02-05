@@ -40,7 +40,7 @@ Required Arduino Libraries
 
 # Mapping controls in DCS
 
-Simple. VR Box will appear as a joystick controller so you can select a control and toggle a switch like with any joystick.
+Simple. VR Toggle Box will appear as a joystick controller so you can select a control and toggle a switch like with any joystick.
 
 # Installing DCS-BIOS scripts
 
