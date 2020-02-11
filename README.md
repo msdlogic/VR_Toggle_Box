@@ -44,4 +44,10 @@ Simple. VR Toggle Box will appear as a joystick controller so you can select a c
 
 # Installing DCS-BIOS scripts
 
-Coming Soon
+Still under development, but there are example files in the dcs-bios folder. 
+After installing DCS-BIOS, you can connect to the VR-BOX from the DCS-BIOS Dashboard. 
+Then, add vrbox.lua as a hub script. Currently, the P51-D is modeled fairly well along with a kneeboard file. There is also some start on the Viggen, F16 and F14. It should be straightforward how to edit vrbox.lua to map functions to different models.
+
+** If you develop a mapping file, please share it! I would love to include it in this project.
+
+
