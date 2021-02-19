@@ -4,7 +4,7 @@
 
 # Overview
 
-The VR Toggle Box provides a VR friendly control surface with simultaneous joystick emulation and an optional DCS-BIOS interface. The device can be used to control switches and dials on any aircraft in Digital Combat Simulator via joystick controls or DCS-BIOS. It can also be used with any game that has a joystick interface that can support up to 120 different joystick buttons.
+The VR Toggle Box provides a VR friendly control surface with simultaneous joystick emulation and an optional DCS-BIOS interface. Unlike some other projects, this is a diode matrix and so it supports simultaneous button presses. The device can be used to control switches and dials on any aircraft in Digital Combat Simulator via joystick controls or DCS-BIOS. It can also be used with any game that has a joystick interface that can support up to 120 different joystick buttons.
 
 A mode switch to the left of the rotary encoders is selectable between 3 positions. Each position changes the mapping of the switches into different sets of joystick buttons or DCS-BIOS control messages. This provides up to 120 different control inputs. A typical setup might be to map the controls on mode 1 for aircraft startup and lights, 2 for nav/radios and 3 for weapons. 
  
